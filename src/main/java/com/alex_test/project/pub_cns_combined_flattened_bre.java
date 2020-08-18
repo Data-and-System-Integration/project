@@ -13212,7 +13212,7 @@ public class pub_cns_combined_flattened_bre implements java.io.Serializable {
 		{
 			 this.data_user_defined_multi = data_user_defined_multi;
 		}
-*/
+
 
 	public java.util.List<com.alex_test.project.panelist_user_defined_multi> getPanelist_user_defined_multi()
 		{
@@ -13224,7 +13224,7 @@ public class pub_cns_combined_flattened_bre implements java.io.Serializable {
 			 this.panelist_user_defined_multi = panelist_user_defined_multi;
 		}
 
-
+*/
 public java.math.BigDecimal decimalRound(java.math.BigDecimal num, java.lang.Integer num_places){
 
         if(num_places<0)
