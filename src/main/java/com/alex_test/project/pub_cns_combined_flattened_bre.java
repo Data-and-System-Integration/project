@@ -1867,10 +1867,10 @@ public class pub_cns_combined_flattened_bre implements java.io.Serializable {
 	private java.lang.String data_cns_date_values_0;
 	private java.lang.Long panelist_user_defined_fields_count;
 	private java.lang.Long data_user_defined_fields_count;
-	private java.util.List<com.alex_test.project.data_bus_dim> data_bus_dim;
-	private java.util.List<com.alex_test.project.panelist_bus_dim> panelist_bus_dim;
-	private java.util.List<com.alex_test.project.data_user_defined_multi> data_user_defined_multi;
-	private java.util.List<com.alex_test.project.panelist_user_defined_multi> panelist_user_defined_multi;
+	//private java.util.List<com.alex_test.project.data_bus_dim> data_bus_dim;
+	//private java.util.List<com.alex_test.project.panelist_bus_dim> panelist_bus_dim;
+	//private java.util.List<com.alex_test.project.data_user_defined_multi> data_user_defined_multi;
+	//private java.util.List<com.alex_test.project.panelist_user_defined_multi> panelist_user_defined_multi;
 
 
 	public String getData_mail_date() {
@@ -13182,6 +13182,7 @@ public class pub_cns_combined_flattened_bre implements java.io.Serializable {
 		this.data_user_defined_fields_count = data_user_defined_fields_count;
 	}
 
+/*
 	public java.util.List<com.alex_test.project.data_bus_dim> getData_bus_dim()
 		{
 			return this.data_bus_dim;
@@ -13190,7 +13191,7 @@ public class pub_cns_combined_flattened_bre implements java.io.Serializable {
 		public void setData_bus_dim(java.util.List<com.alex_test.project.data_bus_dim> data_bus_dim)
 		{
 			 this.data_bus_dim = data_bus_dim;
-		}
+		} 
 
 	public java.util.List<com.alex_test.project.panelist_bus_dim> getPanelist_bus_dim()
 		{
@@ -13211,7 +13212,7 @@ public class pub_cns_combined_flattened_bre implements java.io.Serializable {
 		{
 			 this.data_user_defined_multi = data_user_defined_multi;
 		}
-
+*/
 
 	public java.util.List<com.alex_test.project.panelist_user_defined_multi> getPanelist_user_defined_multi()
 		{
