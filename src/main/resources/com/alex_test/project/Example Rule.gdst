@@ -87,7 +87,6 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric>0.0</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
